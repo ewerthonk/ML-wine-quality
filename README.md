@@ -14,14 +14,9 @@ Exploring a dataset of 🍷 **Red Wines** 🍷 from Potuguese's "Vinho Verde" ty
 
 ## 🎯 Goal
 
-Create two Machine Learning Models. One to **predict the quality score** and the other to **classify a wine to "good" or "bad"**.
+Create two Machine Learning Models. One to **predict the quality score** and the other to **classify a wine to "good" or "bad"**. The Models to be used are from Linear and Logistic Regression.
 
-**Premisses:**
-
-- The Models to be used are from Linear and Logistic Regression.
-
-**Access the notebook in ENGLISH [HERE](https://github.com/ewerthonk/ML-wine-quality/blob/main/1.0-ejk-eda-and-models-en.ipynb) to check the EDA, Models, and Discussion.**
-
+**Access the notebook in ENGLISH [HERE](https://github.com/ewerthonk/ML-wine-quality/blob/main/1.0-ejk-eda-and-models-en.ipynb) to check the EDA, Models, and Discussion.**  \
 **Access the notebook in PORTUGUESE [HERE](https://github.com/ewerthonk/ML-wine-quality/blob/main/1.0-ejk-eda-and-models-pt.ipynb) to check the EDA, Models, and Discussion.**
 
 ## 📰 Metadata
