@@ -28,7 +28,7 @@ From the [link](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) where the 
 - The variables **ARE NOT** balanced.
 - There is a possibility of **Outliers**.
 
-It is also suggested that not all the 11 variables are relevante. They are:
+It is also suggested that not all the 11 variables are relevant. They are:
 
 1. fixed acidity 
 2. volatile acidity 
