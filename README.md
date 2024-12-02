@@ -12,7 +12,7 @@
 
 ### 👨🏻‍🏫 Introduction
 
-Exploring a dataset of 🍷 **Red Wines** 🍷 from Potuguese's "Vinho Verde" type. The [dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) indicates the **quality score** (0-10) given via sensorial to each wine.
+Explore a dataset of 🍷 **Red Wines** 🍷 from Potuguese's "Vinho Verde" type. The [dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) indicates the **quality score** (0-10) given via sensorial to each wine.
 
 ### 🎯 Goal
 
