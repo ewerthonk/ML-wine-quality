@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/seaborn-add8e6?style=for-the-badge&logo=python&logoColor=333333">
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -36,11 +36,11 @@ Create two Machine Learning Models. One to **predict the quality score** and the
 
 ![Results](references/results.png)
 
-# 🗄 Notebooks
+## 🗄 Notebooks
 
 - [1.0-eda-and-modeling.ipynb](notebooks/1.0-eda_and_modeling.ipynb)
 
-# 📈 Features
+## 📈 Features
 
 | Column                 | Description                                                |
 |:-----------------------|:-----------------------------------------------------------|
@@ -55,7 +55,7 @@ Create two Machine Learning Models. One to **predict the quality score** and the
 | pH                     | pH level of the wine                                       |
 | sulphates              | Sulfate concentration in the wine                          |
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
