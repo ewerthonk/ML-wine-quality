@@ -1,6 +1,10 @@
 # Machine Learning - Wine Quality
 
-*Supervised Machine Learning Modeling (Classification and Regression) for Wine Quality Prediction*
+<div align="center">
+  <em>Supervised Machine Learning Modeling (Classification and Regression) for Wine Quality Prediction.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
